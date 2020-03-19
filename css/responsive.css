@@ -1,0 +1,184 @@
+@media screen and (min-width:580px) {
+    #nav-open {
+      display:none;
+    }
+  }
+  
+  @media screen and (max-width:580px) {
+    .header-li li {
+      display: none;
+    }
+    
+  }
+  
+  @media screen and (max-width:1000px){
+    .header-cat img{
+      width:100%;
+      margin-bottom: 40px;
+    }
+    
+  }
+
+
+@media screen and (max-width: 480px){
+      
+      
+    .center-sk {
+      margin-bottom: 40px;
+      font-size: 20px;
+    }
+    .t{
+      margin-bottom: 50px;
+      color:brown;
+      text-align: center;
+    }
+    .left-top {
+      width: 92%;
+      padding-right: 4%;
+      padding-left: 4%;
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .left1{
+      margin-bottom: 30px;
+    }
+    .left1 {
+      width: 92%;
+      padding-right: 4%;
+      padding-left: 4%;
+      text-align: center;
+    }
+    .left-top{
+      width: 100%;
+    }
+    .center-sk {
+      text-align: center;
+      font-size: 100%;
+      font-weight: bold;
+      color: brown;
+    }
+    .skill1 {
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+    section{
+      padding-top: 50px;
+      padding-bottom: 50px;
+    }
+    .left,.right{
+      width:100%;
+    }
+    
+    .left-b{
+      padding-right:0%;
+      width: 100%;
+    }
+    .right-b{
+      padding-left: 0%;
+      width:100%;
+    }
+    
+    .btn {
+      display:none;
+      
+    }
+  
+    .skill2{
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .flex{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+  
+    .flex-reverse{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .leftp{
+        width: 100%;
+        margin: 0 7% 0 7%;
+        text-align: left;
+        padding-bottom: 10%;
+
+    }
+
+    .rightp{
+        width: 100%;
+        margin: 0 7% 0 7%;
+        text-align: left;
+        padding-bottom: 10%;
+        margin-left: 5%;
+
+    }
+
+    .left-top{
+        margin: 0;
+        padding: 0;
+
+    }
+
+    .cati2{
+        padding: 0;
+        margin: 0 5% 0 5%;
+    }
+
+    .right-b1{
+        padding: 0;
+    }
+
+    .left-b2{
+        padding: 0;
+        margin: 0 10% 0 10%;
+    }
+
+    .btnt{
+        display: none;
+
+    }
+
+    .btnb{
+        display: none;
+
+    }
+
+    .left-bottom-b{
+        margin: 10% 10% 0 0;
+    }
+
+    .cati{
+        width: 90%;
+        margin: 0 5% 0 5%;
+
+    }
+
+    .left-b1{
+        margin: 0 0 10% 8%;
+
+    }
+
+    .right-b1{
+        margin: 0 0 10% 20%;
+
+    }
+
+    .header-logo {
+        margin: 3% 0 1% 1%;
+    }
+
+    .right-bottom-b {
+      margin: 10% 5% 0 0;
+    }
+
+    .right-top{
+
+    }
+
+
+}
